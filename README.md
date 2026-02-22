@@ -1,1 +1,3 @@
-# heart-attack-prediction-analysis
+# heart-disease-prediction-analysis
+
+We chose to focus on heart disease data because we want our project to produce findings that are broadly applicable and capable of encouraging meaningful lifestyle changes. In particular, we aim to identify the most significant risk factors correlated with heart disease and determine whether we can build predictive models based on the data. The dataset contains a sufficient number of observations and independent variables to support well-informed hypotheses, draw reliable conclusions, and potentially inform data-driven decision-making.
